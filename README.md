@@ -1,5 +1,7 @@
 https://dartpad.dev/819172c70640c3046828c7134e65e4ee
-
+Gabriel Cordeiro Alves 
+Caio de vasconcelos Ramalho
+Diogenes Lopes Dias de Souza
 
  Descrição Geral
  Este aplicativo em Flutter demonstra o gerenciamento de uma lista de produtos eletrônicos. Ele
