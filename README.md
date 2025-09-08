@@ -1,5 +1,6 @@
 https://dartpad.dev/819172c70640c3046828c7134e65e4ee
 
+
  Descrição Geral
  Este aplicativo em Flutter demonstra o gerenciamento de uma lista de produtos eletrônicos. Ele
  permite visualizar, adicionar e excluir produtos, utilizando navegação entre telas, formulários com
@@ -117,6 +118,7 @@ https://dartpad.dev/819172c70640c3046828c7134e65e4ee
 Permite ao usuário cadastrar novos produtos. Contém um formulário com dois campos de entrada:
  nome do produto e preço. A validação garante que o nome não esteja vazio e que o preço seja
  numérico e válido. Após a validação, o produto é retornado à tela principal.
+ 
  class AdicionarProdutoScreen extends StatefulWidget {
   const AdicionarProdutoScreen({super.key});
   @override
