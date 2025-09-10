@@ -1,4 +1,13 @@
+Parte 1 
+dartpad.dev/ebf53a6c8d4deaa6f473f843460b69e2
+
+parte 2
+
+
+
+Parte 3 
 https://dartpad.dev/819172c70640c3046828c7134e65e4ee
+
 Gabriel Cordeiro Alves 
 Caio de vasconcelos Ramalho
 Diogenes Lopes Dias de Souza
