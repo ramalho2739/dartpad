@@ -1,3 +1,5 @@
+De preferencia para testar no computador 
+
 Parte 1 
 https://dartpad.dev/ebf53a6c8d4deaa6f473f843460b69e2
 
